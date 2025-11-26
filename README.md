@@ -15,3 +15,8 @@ ld build/hello.o -o bin/hello -l System -syslibroot `xcrun -sdk macosx --show-sd
 ```
 ./bin/hello
 ```
+
+## Clean
+```
+bin/clean
+```
